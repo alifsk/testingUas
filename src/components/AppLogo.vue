@@ -2,7 +2,7 @@
     <div class="row row-banner">
     <div class="col-lg-12">
         <div class="img">
-            <img src="@/assets/logo.png" alt="">
+            <img src="@/assets/App.png" alt="">
         </div>
         <h1 class="title">
             The Meals API

@@ -106,6 +106,9 @@ export default {
 };
 </script>
 <style scoped>
+.container{
+  background: #ECF0F1 ;
+}
 .row-register {
   text-align: center;
 }

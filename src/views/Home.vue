@@ -37,5 +37,6 @@ export default {
   align-items: center;
   text-align: none;
   padding: none;
+  background: #ECF0F1 ;
 }
 </style>

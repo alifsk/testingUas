@@ -21,5 +21,6 @@ export default {
   justify-content: center;
   align-items: center;
   text-align: none;
+  background: #ECF0F1 ;
 }
 </style>

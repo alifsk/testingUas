@@ -15,3 +15,9 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+.container-fluid{
+  background: #ECF0F1 ;
+}
+</style>

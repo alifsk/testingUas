@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row row-about p-5">
             <div class="col-md-6 p-4">
-                <img src="@/assets/logo.png" class="img-fluid"/>
+                <img src="@/assets/Group1.png"/>
             </div>
             <div class="col-md-6 p-4">
                 <h1 class="mb-5">ABOUT US<span class="text-danger">.</span></h1>

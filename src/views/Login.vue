@@ -71,6 +71,9 @@ export default {
 };
 </script>
 <style scoped>
+.container-fluid{
+  background: #ECF0F1 ;
+}
 .row-login {
   text-align: center;
 }

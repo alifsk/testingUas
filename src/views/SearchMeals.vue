@@ -13,6 +13,9 @@ export default {
 };
 </script>
 <style>
+.container-fluid{
+  background: #ECF0F1 ;
+}
 .row-search {
     background-color: none;
     padding: 50px;
